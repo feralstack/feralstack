@@ -44,7 +44,7 @@ I’m exploring coding out of curiosity and to see what kinds of projects I migh
 ---
 
 ### 🗺️ My Learning Roadmap
-[![roadmap.sh](https://roadmap.sh/card/tall/68e0400f399d90649118d1b2?variant=dark&roadmaps=full-stack)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/68e0400f399d90649118d1b2?variant=dark&roadmaps=full-stack)](https://roadmap.sh)
 
 ---
 
