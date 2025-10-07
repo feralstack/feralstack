@@ -24,7 +24,7 @@ I’m exploring coding out of curiosity and to see what kinds of projects I migh
 ### 🚧 Currently Working On
 
 - Building my first **HTML + CSS portfolio page**  
-- Completing the **Scrimba Frontend Developer Path**  
+- Completing the **Scrimba Full Stack Developer Path**  
 - Experimenting with small JavaScript practice projects  
 - Learning how to use **GitHub** properly for version control  
 
